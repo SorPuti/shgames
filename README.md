@@ -25,7 +25,7 @@ Este é um repositório contendo dois jogos simples criados com bash: `snake.sh`
 
 1. Para iniciar o jogo da cobra com uma cobra que cresce até 8 células e intervalo de 0,5 segundos:
 ```
-./snake.sh 8 0.5
+./snake.sh
 ```
 
 2. Para iniciar a versão simples do carro:
