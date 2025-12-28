@@ -13,7 +13,7 @@ Este é um repositório contendo dois jogos simples criados com bash: `snake.sh`
 
 **Para Snake:**
 ```
-./snake.sh [Tamanho da cobra] [Intervalo entre movimentos]
+./snake.sh 
 ```
 
 **Para Car:**
